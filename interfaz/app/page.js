@@ -1,4 +1,4 @@
-import Example from "@/componentes/tarjeta";
+import Example from "./componentes/tarjeta";
 
 const Home = () => {
   return (
