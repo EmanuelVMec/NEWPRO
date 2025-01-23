@@ -1,7 +1,7 @@
 const Saludo = () => {
 
     return(
-<h1>POOOOOOSI</h1>
+<h1>texto</h1>
     )
 }
 

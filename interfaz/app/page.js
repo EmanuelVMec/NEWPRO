@@ -5,7 +5,7 @@ const Home = () => {
     <>
     <Example/>
     </>
-    
+
   )
 }
 export default Home;
