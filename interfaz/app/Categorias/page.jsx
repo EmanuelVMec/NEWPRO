@@ -1,10 +1,8 @@
-
-
-
+import Tailcategoria from "../componentes/poosi";
 const Inicio = () => {  
     return  (
         <div>
-        HOLA CATE
+            <Tailcategoria/>
         </div>
     )
     }

@@ -1,13 +1,12 @@
+import TextParallaxContent from "@/app/componentes/TextParallaxContent";
+
 const page = () => {
     return (
       <div>
-      <h1>
-       HOLAAA CATE1
-      </h1>
+      <TextParallaxContent/>
       </div>
       
     )
   }
-  
   export default page;
   

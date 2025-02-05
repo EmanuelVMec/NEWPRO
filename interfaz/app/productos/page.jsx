@@ -1,10 +1,9 @@
+import BouncyCardsFeatures from "../componentes/BouncyCardsFeatures";
 
 const page = () => {
   return (
     <div>
-    <h1>
-     HOLAAA
-    </h1>
+   <BouncyCardsFeatures/>
     </div>
     
   )
